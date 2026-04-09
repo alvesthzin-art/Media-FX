@@ -85,8 +85,17 @@ O design foi construído com **BorderPane**, organizando a tela em regiões:
 * 📊 Inferior — exibição dos resultados
 
 
-
----
+👨‍💻 Desenvolvedor
+<table style="border: none;">
+<tr>
+<td align="center">
+<a href="#">
+<img src="https://github.com/alvesthzin-art.png" width="100px;" alt="Avatar"/><br />
+<sub><b>@alvesthzin-art</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 
 
